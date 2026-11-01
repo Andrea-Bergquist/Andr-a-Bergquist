@@ -1,2 +1,2 @@
-# Andr-a-Bergquist
+# Andrea-Bergquist
 Laravel developer
